@@ -1,0 +1,6 @@
+echo "myhelp - this"
+echo "pycode - change directory to python programming directory"
+echo "getip - gets your public ip"
+echo "segfault - create a new connection to segfault.net"
+echo "addnew - creates a new item and spawns notepad to write the script"
+echo "scripts - opens script directory"
